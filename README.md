@@ -16,7 +16,7 @@ El objetivo de este proyecto es construir un modelo funcional y simplificado de 
 2.  **Banderas de Estado (Flags):** Indicadores visuales para *Zero, Negative* y *Overflow*.
 3.  **Calculadora de 2 Bits:** Capacidad para realizar operaciones de suma y resta con números del 0 al 3.
 
-Instrucciones de Uso:
+## Instrucciones de Uso:
 
  Carga del Código
 1.  Conecta la placa RP2040 Zero a tu computadora mediante USB-C.
@@ -25,7 +25,7 @@ Instrucciones de Uso:
 4.  Abre el archivo `main.py` ubicado en la carpeta `CODE/`.
 5.  Guarda el archivo en la placa con el nombre `main.py` para que se ejecute automáticamente al encenderla.
 
-Operación de la Calculadora
+## Operación de la Calculadora
 El sistema funciona como una máquina de estados. Sigue esta secuencia:
 
 1.  **Estado Inicial:** El sistema espera el primer número.
