@@ -10,7 +10,7 @@
 
 
 ##  Objetivo
-El objetivo de este proyecto es construir un modelo funcional y simplificado de una Unidad Central de Procesamiento (CPU) utilizando una placa RP2040 Zero. El proyecto simula:
+El objetivo de este proyecto es construir un modelo funcional y simplificado de una Unidad Central de Procesamiento (CPU) utilizando una placa [RP2040 Zero](https://www.waveshare.com/wiki/RP2040-Zero#Introduction). El proyecto simula:
 
 1.  **El Ciclo de Instrucción:** Visualización de las fases *Fetch, Decode, Execute y Write-Back* mediante LEDs.
 2.  **Banderas de Estado (Flags):** Indicadores visuales para *Zero, Negative* y *Overflow*.
