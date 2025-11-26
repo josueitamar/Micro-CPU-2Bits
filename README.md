@@ -1,4 +1,6 @@
-# Micro-CPU 2Bits
+# Micro-CPU 2Bits con RP2040 Zero
+
+![Prototipo final](https://github.com/user-attachments/assets/096f6349-eba2-4fb0-9cdf-cac778109cba)
 
 ## Autores
 
